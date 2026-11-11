@@ -4,9 +4,6 @@
   "author": "TiDev, Inc. <npm@titaniumsdk.com>",
   "description": "Proxy for the old Titanium SDK downloads site to titaniumsdk.com",
   "license": "Apache-2.0",
-  "engines": {
-    "node": "26.x"
-  },
   "scripts": {
     "start": "node server.js"
   }
